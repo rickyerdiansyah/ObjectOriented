@@ -8,13 +8,6 @@
 
 import UIKit
 
-class meja{
-    var warna: String
-    var kaki: Int
-    var bahanMeja: String
-    
-}
-
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
