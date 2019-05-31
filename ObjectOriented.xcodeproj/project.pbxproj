@@ -13,6 +13,8 @@
 		BD0177B8228BAF670067B8C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD0177B7228BAF670067B8C9 /* Assets.xcassets */; };
 		BD0177BB228BAF670067B8C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0177B9228BAF670067B8C9 /* LaunchScreen.storyboard */; };
 		BD0177C3228BB02C0067B8C9 /* myEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0177C2228BB02C0067B8C9 /* myEntity.swift */; };
+		BD0177C5228BCA240067B8C9 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0177C4228BCA240067B8C9 /* RoundedButton.swift */; };
+		BD0177C7228BCC270067B8C9 /* poeple.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0177C6228BCC270067B8C9 /* poeple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BD0177BA228BAF670067B8C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD0177BC228BAF670067B8C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD0177C2228BB02C0067B8C9 /* myEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myEntity.swift; sourceTree = "<group>"; };
+		BD0177C4228BCA240067B8C9 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		BD0177C6228BCC270067B8C9 /* poeple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = poeple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				BD0177B0228BAF660067B8C9 /* AppDelegate.swift */,
 				BD0177B2228BAF660067B8C9 /* ViewController.swift */,
 				BD0177C2228BB02C0067B8C9 /* myEntity.swift */,
+				BD0177C6228BCC270067B8C9 /* poeple.swift */,
+				BD0177C4228BCA240067B8C9 /* RoundedButton.swift */,
 				BD0177B4228BAF660067B8C9 /* Main.storyboard */,
 				BD0177B7228BAF670067B8C9 /* Assets.xcassets */,
 				BD0177B9228BAF670067B8C9 /* LaunchScreen.storyboard */,
@@ -138,9 +144,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD0177C7228BCC270067B8C9 /* poeple.swift in Sources */,
 				BD0177C3228BB02C0067B8C9 /* myEntity.swift in Sources */,
 				BD0177B3228BAF660067B8C9 /* ViewController.swift in Sources */,
 				BD0177B1228BAF660067B8C9 /* AppDelegate.swift in Sources */,
+				BD0177C5228BCA240067B8C9 /* RoundedButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
